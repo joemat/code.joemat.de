@@ -1,0 +1,11 @@
+include::header.adoc[]
+
+== Docker
+
+Some docker and docker-compose configurations I use to run containers on my NAS.
+
+* https://codeberg.org/joemat/kill-the-newsletter-docker[window=_blank]
+* https://github.com/joemat/nextcloud-on-synology[window=_blank]
+* https://github.com/joemat/keycloak-on-synology[window=_blank]
+* https://github.com/joemat/imapsync-slim-docker[window=_blank]
+* https://github.com/joemat/synology-prometheus[window=_blank]

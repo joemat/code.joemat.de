@@ -1,0 +1,16 @@
+include::header.adoc[]
+
+== Home
+
+My code repos and OSS contributions
+
+=== privately used accounts
+
+* https://www.codeberg.org/joemat[codeberg.org/joemat,window=_blank] - I just joined codeberg a few weeks ago, new project will be hosted here
+* https://www.github.com/joemat[github.com/joemat,window=_blank]
+* https://www.bitbucket.org/joemat[bitbucket.org/joemat,window=_blank]
+* https://sourceforge.net/u/matysiak/profile/[sourceforge.net,window=_blank] - my first OSS contributions, a long, long time ago ...
+
+=== my account used at work
+
+* https://www.github.com/ioemat[github.com/ioemat,window=_blank]

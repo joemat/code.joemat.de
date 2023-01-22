@@ -1,0 +1,8 @@
+include::header.adoc[]
+
+== Tools
+
+* https://qr.joemat.de/[A simple QR code generator PWA,window=_blank] (online version of https://codeberg.org/joemat/qrcodegen-pwa)
+
+* https://github.com/joemat/code.joemat.de[window=_blank] - this page itself
+** a simply homepage implemented in asciidoc, github actions and hosted on github pages

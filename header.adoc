@@ -1,0 +1,9 @@
+:stylesheet: css/boot-readable.css
+// :toc: left
+// :toclevels: 5
+:icons: font
+:stem: latexmath
+
+// switch to toc style
+[id=toc]
+link:index.html#home[HOME] link:coding.html#coding[CODING] link:docker.html[DOCKER] link:tools.html#tools[TOOLS]

@@ -1,0 +1,37 @@
+include::header.adoc[]
+
+== Coding
+
+Most of the coding projects I simply created to learn new technologies and somehow document and share what I learned and discovered.
+
+Most of the projects are using git tags to document what code changes are required for a special feature.
+
+=== QR Code Generater PWA
+
+https://codeberg.org/joemat/qrcodegen-pwa[window=_blank]
+
+A progressive web applicatiom built in plain javascript implementing features like share data with other applications and act as share target.
+
+=== Quicksort polyglot
+
+https://github.com/joemat/quicksort-polyglot[window=_blank]
+
+A simple project that implements quicksort in different languages that run on the Java VM. Just to learn how to integrate these languages with Java.
+
+=== docToolchain example 
+
+https://github.com/joemat/docToolchain-example[window=_blank]
+
+How to implement https://github.com/docToolchain/docToolchain[docToolchain,window=_blank] with github actions.
+
+=== otr-rss downloader
+
+https://bitbucket.org/joemat/otr-rss-downloader
+
+A tool to download data from onlinetvrecorder.com and also a project to learn https://scala-lang.org/[scala,window=_blank] and to play with https://github.com/diffplug/goomph[goomph,window=_blank], gradle features and application packaging.
+
+=== otr-rss-rust
+
+https://github.com/joemat/otr-rss-rust[window=_blank]
+
+A re-implementation of otr-rss downloader in https://www.rust-lang.org/[rust,window=_blank]. Mainly started to learn https://www.rust-lang.org/[rust,window=_blank].

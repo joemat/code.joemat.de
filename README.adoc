@@ -1,0 +1,6 @@
+== code.joemat.de
+
+My simple homepage built by asciidoc and github actions, result see https://code.joemat.de.
+
+Use `build.sh` to build the html version locally.
+
