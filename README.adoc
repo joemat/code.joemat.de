@@ -4,3 +4,10 @@ My simple homepage built by asciidoc and github actions, result see https://code
 
 Use `build.sh` to build the html version locally.
 
+=== Github settings
+
+* Actions/General/Workflow Permissions: "Read and write permissions"
+* Pages:
+** Deploy from branch: gh-pages, / folder
+
+
