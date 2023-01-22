@@ -10,7 +10,7 @@ Most of the projects are using git tags to document what code changes are requir
 
 https://codeberg.org/joemat/qrcodegen-pwa[window=_blank]
 
-A progressive web applicatiom built in plain javascript implementing features like share data with other applications and act as share target.
+A progressive web applicatiom implemented in plain javascript providing features like share data with other applications and act as share target.
 
 === Quicksort polyglot
 
