@@ -6,4 +6,4 @@
 
 // switch to toc style
 [id=toc]
-link:index.html#home[HOME] link:coding.html#coding[CODING] link:docker.html[DOCKER] link:tools.html#tools[TOOLS]
+xref:index.adoc[HOME] xref:coding.adoc[CODING] xref:docker.adoc[DOCKER] xref:tools.adoc[TOOLS] xref:links.adoc[LINKS]
