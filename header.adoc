@@ -3,6 +3,7 @@
 // :toclevels: 5
 :icons: font
 :stem: latexmath
+:favicon: favicon.ico
 
 // switch to toc style
 [id=toc]
